@@ -357,7 +357,7 @@ section .container {
 }
 
 .section-title span{
-  font-size: 30px;
+  font-size: 70px;
 }
 
 .section-title h2::after {
