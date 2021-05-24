@@ -344,6 +344,10 @@ section .container {
   }
 }
 
+.serviceboy{
+  display: flex;
+}
+
 .section-title h2 {
   font-size: 14px;
   font-weight: 500;
