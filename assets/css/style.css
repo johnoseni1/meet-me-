@@ -361,7 +361,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #4ceb95;
+  background: rgb(219, 203, 56);
   margin: 4px 10px;
 }
 
@@ -381,7 +381,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: rgb(219, 203, 56);
 }
 
 .about-me .content ul {
@@ -402,7 +402,7 @@ section .container {
 .about-me .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #18d26e;
+  color: rgb(219, 203, 56);
   line-height: 0;
 }
 
@@ -433,7 +433,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #18d26e;
+  color: rgb(219, 203, 56);
   border-radius: 50px;
   line-height: 0;
 }
@@ -485,7 +485,7 @@ section .container {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #18d26e;
+  background-color: rgb(219, 203, 56);
 }
 
 /*--------------------------------------------------------------
@@ -590,7 +590,7 @@ section .container {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #18d26e;
+  background-color: rgb(219, 203, 56);
 }
 
 /*--------------------------------------------------------------
@@ -617,7 +617,7 @@ section .container {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #18d26e;
+  color: rgb(219, 203, 56);
   margin-bottom: 10px;
 }
 
@@ -713,8 +713,8 @@ section .container {
 }
 
 .services .icon-box:hover {
-  background: #18d26e;
-  border-color: #18d26e;
+  background: rgb(219, 203, 56);
+  border-color: rgb(219, 203, 56);
 }
 
 .services .icon-box:hover .icon {
@@ -722,11 +722,11 @@ section .container {
 }
 
 .services .icon-box:hover .icon i {
-  color: #18d26e;
+  color: rgb(219, 203, 56);
 }
 
 .services .icon-box:hover .icon::before {
-  background: #35e888;
+  background: rgb(219, 203, 56);
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
@@ -765,7 +765,7 @@ section .container {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #18d26e;
+  background: rgb(219, 203, 56);
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -865,7 +865,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #63eda3;
+  color: rgb(219, 203, 56);
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -959,7 +959,7 @@ section .container {
 }
 
 .portfolio-details .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #18d26e;
+  background-color: rgb(219, 203, 56);
 }
 
 /*--------------------------------------------------------------
@@ -974,7 +974,7 @@ section .container {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #18d26e;
+  color: rgb(219, 203, 56);
   border-radius: 50%;
   padding: 14px;
   float: left;
@@ -1011,7 +1011,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #18d26e;
+  color: rgb(219, 203, 56);
 }
 
 .contact .php-email-form {
@@ -1055,7 +1055,7 @@ section .container {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid rgb(219, 203, 56);
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1099,7 +1099,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #18d26e;
+  background: rgb(219, 203, 56);
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1108,7 +1108,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #15bb62;
+  background: rgb(219, 203, 56);
 }
 
 @-webkit-keyframes animate-loading {
