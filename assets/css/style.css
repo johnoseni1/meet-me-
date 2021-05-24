@@ -356,6 +356,10 @@ section .container {
   font-family: "Poppins", sans-serif;
 }
 
+.section-title span{
+  font-size: 30px;
+}
+
 .section-title h2::after {
   content: "";
   width: 120px;
