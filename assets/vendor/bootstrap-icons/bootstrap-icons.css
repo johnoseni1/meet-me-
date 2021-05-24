@@ -906,7 +906,7 @@ url("./fonts/bootstrap-icons.woff?231ce25e89ab5804f9a6c427b8d325c9") format("wof
 .bi-list-stars::before { content: "\f476"; }
 .bi-list-task::before { content: "\f477"; }
 .bi-list-ul::before { content: "\f478"; }
-.bi-list::before { content: "\f479"; }
+.bi-list::before { content: "\f479"; margin-right: 250px; }
 .bi-lock-fill::before { content: "\f47a"; }
 .bi-lock::before { content: "\f47b"; }
 .bi-mailbox::before { content: "\f47c"; }
